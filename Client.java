@@ -4,9 +4,6 @@ class client{
 	}
 
 	public void query(){
-		//未完成的分页操作
-		完成分页操作
-
 	}
 }
 
