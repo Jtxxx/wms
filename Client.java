@@ -1,4 +1,6 @@
 class client{
-	public static void main
+	public void save(){
+		bug
+	}
 }
 
