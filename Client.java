@@ -4,6 +4,7 @@ class client{
 	}
 
 	public void query(){
+		//分页查询
 	}
 }
 
