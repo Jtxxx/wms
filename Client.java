@@ -1,6 +1,6 @@
 class client{
 	public void save(){
-		bug
+		bug已解决
 	}
 }
 
