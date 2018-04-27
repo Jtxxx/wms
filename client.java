@@ -1,3 +1,4 @@
 class client{
-	public String name;
+	public static void main
 }
+
