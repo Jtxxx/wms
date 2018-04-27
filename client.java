@@ -1,1 +1,3 @@
-class client{}
+class client{
+	public String name;
+}
